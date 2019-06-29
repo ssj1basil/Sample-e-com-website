@@ -60,7 +60,7 @@ div.Banner_img
     height: auto;
     text-align: center;
     color: #f8f8f8;
-    background: url(../intro-bg_1.jpg) no-repeat center;
+    background: url(./Images/intro-bg_1.jpg) no-repeat center;
     background-size: auto ;
 }
 
